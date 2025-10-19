@@ -17,21 +17,21 @@
 > этот сайт был сделан на заказ у @spucme!
 
 
-## фото с сайта (mobile/ПК):
+## фото с сайта (mobile/PK):
 
 <p align="center">
 <table>
   <tr>
     <td>
       <img
-src="./site/site_screen (mobile).jpg"
+src="./photos/photo (mobile).jpg"
         height="500"
     />
     </td>
     <td>
       <img
         width="550px"
-        src="./site/site_screen (ПК).jpg"
+        src="./photos/photo (PK).jpg"
         height="500"
       />
     </td>
