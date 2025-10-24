@@ -7,7 +7,6 @@ body {
 html,
 body {
   overflow-x: hidden;
-  touch-action: pan-y;
   touch-action: pan-x;
   user-select: none;
   height: 100%;
@@ -180,4 +179,5 @@ div {
 #maindiv {
   opacity: 0;
   transition: all 1s ease-in-out;
+
 }
